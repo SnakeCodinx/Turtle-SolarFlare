@@ -3,11 +3,11 @@
 his code uses the Python Turtle library to create a stunning, colorful pattern that appears to swirl and burst like a solar flare. The pattern is formed by drawing a series of connected circles with decreasing radii, with each circle being drawn in a different color from the colors list. The hideturtle() function is used to hide the turtle, making the pattern more visually appealing.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/u5vpLTvcoYI))
 
 # Screenshot
 
-Rainbow-Spiral
+Solar Flare
 ![screenshot](SolarFlare.png)
 
 
